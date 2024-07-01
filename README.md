@@ -16,8 +16,12 @@
 - 📫 How to reach me: [Email](isratjahan2997@gmail.com)
 - 💬 Ask me about `Manual` or `Automation`
 
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
+
+
+## ⚡ Skills:
+Test planning / Test case documentation / Test metrics / Bug reporting / API testing with Postman & Newman / Load testing with Jmeter / Mind Map with XMind / Agile & Jira /  Web Automation testing / Mobile aplication testing / Cucumber / Selenium / Cypress / Appium / Javascript /  HTML / CSS / C / JAVA / Python / QA & QC / SDLC & STLC
+<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 ## My stack:
 - 2+ years of experience in Test planning, Test case writing, reviewing, analyzing 
 - 1+ years of experience in non functional testing like API test, Load & performance test, Security & Vulnerability test
