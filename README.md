@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.imgur.com/tN5CW8d.gif">
 
-🔭 I’m currently working on Web automation project<br>
+🔭 I’m currently working on Govt. project named APAMS version-03<br>
 🌱I've completed training in SQA & Cyber security from IT Training BD<br>👯 I’m looking to collaborate on SQA field<br>📫 Reach me Email: isratjahan2997@gmail.com<br>📄 Know about my specialities please enter https://drive.google.com/file/d/1qAKd3EWEc-hW6dgdt2S27EaiWsf-Nlo8/view?usp=share_link<br>⚡ I think, QA is absolutely essential; without it, not only do organizations risk releasing products that are below market standards, but also lose money, wasted time and not fully exploit the potential of an idea.
 
 
