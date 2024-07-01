@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi, This is Israt </h1>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"/>
+<h1 align="center">Hi, This is Israt </h1>
 <h3 align="center">Aspiring Software Quality Assurance Engineer from Bangladesh </h3>
 
 <img align="right" alt="Coding" width="300" src="https://i.imgur.com/tN5CW8d.gif">
