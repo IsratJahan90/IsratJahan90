@@ -70,7 +70,7 @@ Test planning / Test case documentation / Test metrics / Bug reporting / API tes
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ishratjahan.1790) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/israt-jahan1790) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israt-jahan1790/) 
 
 ## My Rewards
 [![Trophies](https://github-profile-trophy.vercel.app/?username=IsratJahan90&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
