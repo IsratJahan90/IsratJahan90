@@ -28,19 +28,15 @@
   <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  /></code>
   <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  /></code>
-  
 </div>
 
 ## ⚡ Skills:
 Test planning / Test case documentation / Test metrics / Bug reporting / API testing with Postman & Newman / Load testing with Jmeter / Mind Map with XMind / Agile & Jira /  Web Automation testing / Mobile aplication testing / Cucumber / Selenium / Cypress / Appium / Javascript /  HTML / CSS / C / JAVA / Python / QA & QC / SDLC & STLC
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 ## My stack:
-- 2+ years of experience in Test planning, Test case writing, reviewing, analyzing 
+- 2.6+ years of experience in Test planning, Test case writing, reviewing, analyzing 
 - 1+ years of experience in non functional testing like API test, Load & performance test, Security & Vulnerability test
-- 2+ years of experience in Functional testing
+- 2.6+ years of experience in Functional testing
 - ❤️ API, RESTful API
 - HTML/CSS, Javascript
 - git, github
